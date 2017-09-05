@@ -1,0 +1,18 @@
+/* main.css */
+
+.full-width-image {
+	width: 100%;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.item{
+	font: white;
+}
+
+
